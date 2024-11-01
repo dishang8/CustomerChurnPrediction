@@ -16,6 +16,7 @@ As a result, by addressing churn, these businesses may not only preserve their m
 
 
 Objectives
+
 I will explore the data and try to answer some questions like:
 
 What's the % of Churn Customers and customers that keep in with the active services?
